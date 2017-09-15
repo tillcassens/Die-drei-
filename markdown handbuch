@@ -38,3 +38,21 @@ unordered
 * Eggs
 * Flour
 * Juice
+
+ordered
+
+1. blah
+2. laber
+3. irgendwas
+
+main and sub lists
+
+* main point
+ * sub point 1
+ * sub point 2
+ 
+ paragraphs
+ 
+ 1. main point
+  
+    kontext (muss mind. einen space einzug haben)
