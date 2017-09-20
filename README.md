@@ -25,3 +25,5 @@ Nun schließe ich mich Finn und Till mit unserem Projekt an. Ziel wird es sein, 
 So sehen unsere ersten Schritte mit [Code][Code] aus:
 
 ![Erste Schritte mit Code](https://github.com/tillcassens/Die-drei-/blob/master/bilder/code1.png)
+
+Wir versagen auf ganzer Linie.
