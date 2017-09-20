@@ -24,4 +24,4 @@ Ich schreibe mit meinem in der letzten Stunde erworbenen "Know-how" den Stundenb
 Nun schließe ich mich Finn und Till mit unserem Projekt an. Ziel wird es sein, ein kleines Spiel zu programmieren.
 So sehen unsere ersten Schritte mit [Code][Code] aus:
 
-[Erste Schritte mit Code](https://github.com/tillcassens/Die-drei-/blob/master/bilder/code1.png)
+![Erste Schritte mit Code](https://github.com/tillcassens/Die-drei-/blob/master/bilder/code1.png)
