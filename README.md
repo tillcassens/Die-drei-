@@ -26,4 +26,6 @@ So sehen unsere ersten Schritte mit [Code][Code] aus:
 
 ![Erste Schritte mit Code](https://github.com/tillcassens/Die-drei-/blob/master/bilder/code1.png)
 
-Wir versagen auf ganzer Linie.
+#### 5. Stunde
+
+Wir sitzen nach langer Zeit mal wieder im Computerraum und versuchen, irgendwie bei unserem Projekt weiterzukommen.
