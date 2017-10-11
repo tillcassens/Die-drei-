@@ -29,3 +29,7 @@ So sehen unsere ersten Schritte mit [Code][Code] aus:
 #### 5. Stunde
 
 Wir mussten das Gruppenmitglied Linus leider aus Kapazitäts- und Zeitgründen aus unserem Team werfen. Nach einigen emotional aufreibenden Minuten widmeten wir uns wieder unserem Projekt auf [Code][Code]. Uns ist bewusst geworden, dass die Appentwicklung kein Kinderspiel ist und wir uns somit nur durch harte Arbeit und Recherchen ein gutes Resultat erhoffen können.
+
+#### 6. Stunde
+
+In dieser Stunde vertieften wir unser Verständnis über [Code][Code]. Wir haben erste Ideen und Vorstelluingen für unser zukünftiges Projekt und werden nächste Stunde damit anfangen. 
