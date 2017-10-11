@@ -28,4 +28,4 @@ So sehen unsere ersten Schritte mit [Code][Code] aus:
 
 #### 5. Stunde
 
-Wir sitzen nach langer Zeit mal wieder im Computerraum und versuchen, irgendwie bei unserem Projekt weiterzukommen.
+Wir mussten das Gruppenmitglied Linus leider aus Kapazitäts- und Zeitgründen aus unserem Team werfen. Nach einigen emotional aufreibenden Minuten widmeten wir uns wieder unserem Projekt auf [Code]: https://code.org/
