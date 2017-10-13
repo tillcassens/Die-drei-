@@ -32,4 +32,4 @@ Wir mussten das Gruppenmitglied Linus leider aus Kapazitäts- und Zeitgründen a
 
 #### 6. Stunde
 
-In dieser Stunde vertieften wir unser Verständnis über [Code][Code]. Wir haben erste Ideen und Vorstelluingen für unser zukünftiges Projekt und werden nächste Stunde damit anfangen. 
+In dieser Stunde vertieften wir unser Verständnis über [Code][Code]. Wir haben erste Ideen und Vorstellungen für unser zukünftiges Projekt und werden nächste Stunde damit anfangen. 
