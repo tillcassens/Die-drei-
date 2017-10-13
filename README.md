@@ -33,3 +33,7 @@ Wir mussten das Gruppenmitglied Linus leider aus Kapazitäts- und Zeitgründen a
 #### 6. Stunde
 
 In dieser Stunde vertieften wir unser Verständnis über [Code][Code]. Wir haben erste Ideen und Vorstellungen für unser zukünftiges Projekt und werden nächste Stunde damit anfangen. 
+
+#### 7. Stunde
+
+Zu Beginn dieser Stunde fiel es uns besonders schwer über Herr Buhls Witze zu lachen. Sie waren spröde, einfrallslos und einfach unwitzig. Mal schauen, was uns nächste Stunde erwartet
