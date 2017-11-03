@@ -37,3 +37,7 @@ In dieser Stunde vertieften wir unser Verständnis über [Code][Code]. Wir haben
 #### 7. Stunde
 
 Zu Beginn dieser Stunde fiel es uns besonders schwer über Herr Buhls Witze zu lachen. Sie waren spröde, einfrallslos und einfach unwitzig. Mal schauen, was uns nächste Stunde erwartet
+
+#### 8. Stunde
+
+Wir haben uns endgültig für ein Projekt entschieden und arbeiten intensiv und konzentriert an diesem
