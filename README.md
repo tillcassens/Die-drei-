@@ -34,6 +34,8 @@ Wir mussten das Gruppenmitglied Linus leider aus Kapazitäts- und Zeitgründen a
 
 In dieser Stunde vertieften wir unser Verständnis über [Code][Code]. Kleine Lernspiele und Aufgaben die im App Lab zur Verfügung gestellt werden halfen uns dabei eher weniger. Diese vermittelten kein Wissen über das eigentliche programmieren mit [Code][Code], sondern stellten einen kleinen Zeitvertreib ohne Mehrwert dar. Es werden Bausteine verwendet, die im eigentlichen App Lab nicht zur Auswahl stehen, zudem war der Großteil der Aufgaben eher an Kinder und nicht an erfahrene Informatiker wie uns gerichtet (*zwinker). 
 
+![Kinderspielchen](https://github.com/tillcassens/Die-zwei/blob/master/bilder/App%20Lab%20Kinderspielchen.png)
+
 #### 7. Stunde
 
 Zu Beginn dieser Stunde fiel es uns besonders schwer über Herr Buhls Witze zu lachen. Sie waren spröde, einfrallslos und einfach unwitzig. Mal schauen, was uns nächste Stunde erwartet
