@@ -1,5 +1,5 @@
 # Die-drei-???
-Finn, Linus, Till
+Finn, Till, das wa es schon
 
 ### Stunden-Blog: Einführung
 
@@ -32,7 +32,7 @@ Wir mussten das Gruppenmitglied Linus leider aus Kapazitäts- und Zeitgründen a
 
 #### 6. Stunde
 
-In dieser Stunde vertieften wir unser Verständnis über [Code][Code]. Wir haben erste Ideen und Vorstellungen für unser zukünftiges Projekt und werden nächste Stunde damit anfangen. 
+In dieser Stunde vertieften wir unser Verständnis über [Code][Code]. Kleine Lernspiele und Aufgaben die im App Lab zur Verfügung gestellt werden halfen uns dabei eher weniger. Diese vermittelten kein Wissen über das eigentliche programmieren mit [Code][Code], sondern stellten einen kleinen Zeitvertreib ohne Mehrwert dar. Es werden Bausteine verwendet, die im eigentlichen App Lab nicht zur Auswahl stehen, zudem war der Großteil der Aufgaben eher an Kinder und nicht an erfahrene Informatiker wie uns gerichtet (*zwinker). 
 
 #### 7. Stunde
 
