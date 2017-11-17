@@ -44,4 +44,4 @@ Langsam wurde es Zeit sich endgültig für ein Projekt zu entscheiden. Die Zeit 
 
 #### 8.-und 9.Stunde
 
-Wir haben uns endgültig für ein Projekt entschieden und arbeiten intensiv und konzentriert an diesem
+In diesen Stunden mussten wir erst eine konkrete Idee für den Verlauf der Geschichte finden. Nachdem wir uns einig wurden, machten wir uns weiter an das Programmieren. Bei unserem ersten 
