@@ -45,3 +45,5 @@ Langsam wurde es Zeit sich endgültig für ein Projekt zu entscheiden. Die Zeit 
 #### 8.-und 9.Stunde
 
 In diesen Stunden mussten wir erst eine konkrete Idee für den Verlauf der Geschichte finden. Nachdem wir uns einig wurden, machten wir uns weiter an das Programmieren. Wir stießen jedoch schnell auf unser erstes Problem. Wir setzten zwei Variablen für unseren Score, sodass dieser nicht jedesmal addiert wurde. Wir fanden diesen Fehler erst eine nervenaufreibende Stunde später, womit die restliche Zeit nur noch für kosmetische Verbesserungen an der App gereicht hat.
+
+![Juhu](https://github.com/tillcassens/Die-zwei/blob/master/bilder/Juhh.png)
