@@ -40,6 +40,8 @@ In dieser Stunde vertieften wir unser Verständnis über [Code][Code]. Kleine Le
 
 Langsam wurde es Zeit sich endgültig für ein Projekt zu entscheiden. Die Zeit bis zum Abgabetermin verstreicht wie im Flug und kennt kein Erbahmen. Manche unserer geliebeten Mitschüler entschieden sich, zu unseren Erstaunen, Lernaktivitäten zu dokumentieren und diese als Projekt abzugeben. Für uns kam dies nie in Frage, weil wir etwas eigenens erschaffen und als Projekt abgegben wollten. So entschieden wir uns bei [Code][Code] zu bleiben und im App Lab unsere eigene App zu entwerfen. Jetzt muusste eine Idee her! Wir insperierten uns im Internet und trafen auf ein "Create you're own Adventure" und sagten uns, dass können wir besser. Damit wurde unsere Idee zu einem Interaktiven Abenteuer mit kleinen Fertigkeitsspielen geboren. Bei der Frage nach der Geschichte des Spiels kamen wir schnell auf die ulkige Idee eine diebische Elster als Protagonist zu nutzen. Unsere Intention war dabei, dass Spiel nicht zu ernst zu nehmen.
 
+![Kein Kinderspielchen](https://github.com/tillcassens/Die-zwei/blob/master/bilder/Kein%20Kinderspielchen.png)
+
 #### 8.-und 9.Stunde
 
 Wir haben uns endgültig für ein Projekt entschieden und arbeiten intensiv und konzentriert an diesem
