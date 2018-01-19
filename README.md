@@ -59,3 +59,9 @@ Leider konnten wir nicht jeden Bug ausbügeln. Der Übergang von Screen3.1.1 zu 
 Nachdem wir unsere App endlich vollendet hatten verfassten wir diesen Blogeintrag und nahmen letzte Änderungen an unserem GitHub vor.
 
 Wir sind sehr zufrieden mit unserem Projekt, weil wir ohne jeglich Erfahrung in den Informatikunterricht gestarten sind und nach anfänglichen Problemen einen tieferen Einblick in [Code][Code] bekamen. Wir rechneten nicht damit, ein selbst programmiertes Projekt abzugeben und uns so in die Materie enzuarbeiten. 
+ 
+ 
+ 
+ 
+ ######## hallo
+ 
