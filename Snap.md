@@ -1,6 +1,6 @@
 # Snap
 
-### 1. Stunde nach dem Rückschlag
+### 1.- 3. Stunde nach dem Rückschlag
 
 Das für uns enttäuschende Ergebnis des letzten Projektes hat uns menschlich mitgenommen und geprägt. In der ersten Zeit nach dem Ereignis litten wir beide an Verstopfungen und Durchfall auf einmal. Die Identitätszweifel ließen uns Nachts nicht schlafen und raubten uns die Freude am Tag. 
 Naja, jeder muss weiter machen. Wahre Stärke bedeutet auch wieder aufstehen zu können, wenn man hinfällt. 
