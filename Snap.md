@@ -9,3 +9,6 @@ Wir sahen keine Zukunft mehr in unserem Projekt und entschieden uns weiterzuzieh
 Nachdem wir uns durch die Möglichkeiten des Informatikunterrichts klickten, stießen wir auf Arduino. Uns gefiel die Idee etwas zu physisches zu programmieren, sodass wir zum Beispiel durch eine vorher verbundene Glühbirne direkte Rückmeldung auf das Programmierte bekommen. Doch wir waren offiziell zu unintelligent im Bereich des physischen Programmierens. Wir konnten eine einfache Glühbirne zum Leuchten bringen und die Länge des Blinkens einstellen, das war es schon. Wir suchten uns etwas neues und entschieden uns nach einiger Zeit für eine Lernaktivität mit Snap!.
 Snap!, auch bekannt unter "the beauty and joy of computing", ist eine visuelle Programmiersprache inklusive ihrer Entwicklungsumgebung für fortgeschrittene Schüler. Wir waren mit dem Preis-Leistungsverhältnis von unserem vorigen Projekt nicht zufrieden und entschieden uns deshalb eine Lernaktivität anzufangen, wie Einserschüler vor uns. 
 
+### 4. Stunde
+
+Nachdem wir uns für die Programmierumgebung Snap! entschieden hatten versuchten wir ersteimal, selbe kleine Sachen zu programmieren. Die ersten Striche und Quadrate entstanden bevor wir uns aufrappelten und der Lernaktivität witmeten.
