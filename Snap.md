@@ -12,3 +12,4 @@ Snap!, auch bekannt unter "the beauty and joy of computing", ist eine visuelle P
 ### 4. Stunde
 
 Nachdem wir uns für die Programmierumgebung Snap! entschieden hatten versuchten wir ersteimal, selbe kleine Sachen zu programmieren. Die ersten Striche und Quadrate entstanden bevor wir uns aufrappelten und der Lernaktivität witmeten.
+![Challo] (https://github.com/tillcassens/Die-zwei/blob/master/bilder/lernaktivit%C3%A4t1png.png)
