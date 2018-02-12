@@ -36,3 +36,10 @@ In dieser Doppelstunde befassten wir uns zum letzten Mal mit einer Lernaktivitä
 In der heutigen Lernaktivität ging es um Formen und Bewegungen die der Sprite zeichnen bzw. machen konnte. Wir sollten zuerst dem Sprite ein einfaches Kreuz zeichnen lassen und mit verschiedenen Winklen experimentieren.
 
 ![Skkkkkrrr](https://github.com/tillcassens/Die-zwei/blob/master/bilder/Kreuz%20screenie.png)
+
+Im weiteren Verlauf der Lernaktivität sollte man dann mit allen möglichen Variablen spielen, um zu verstehen was kleine Veränderungen schon für große Auswirkungen haben können. Das Herumspielen bereitete uns sehr viel Freude, aber kostete uns leider auch relativ viel Zeit. Des Zeitdrucks wegen überlegten wir uns, für unsere letzte Informatikstunde vor dem Abgabetermin, ein kleines Pongspiel zu programmieren.
+
+![Turn up](https://github.com/tillcassens/Die-zwei/blob/master/bilder/mieser%20kreisel%20screenie.png)
+
+### 8. Stunde nach dem Rückschlag und Heimarbeit
+
