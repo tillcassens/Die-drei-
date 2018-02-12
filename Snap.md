@@ -29,3 +29,10 @@ Nachdem wir uns mit den ersten Schritten befasst hatten, sollten wir nun zwei Sp
 
 
 ![Was geht´n](https://github.com/tillcassens/Die-zwei/blob/master/bilder/nicer-talk-screenie.png)
+
+### 6. und 7. Stunde nach dem Rückschlag
+
+In dieser Doppelstunde befassten wir uns zum letzten Mal mit einer Lernaktivität, da der Abgabetermin für ein unser Projekt immer näher rückte. 
+In der heutigen Lernaktivität ging es um Formen und Bewegungen die der Sprite zeichnen bzw. machen konnte. Wir sollten zuerst dem Sprite ein einfaches Kreuz zeichnen lassen und mit verschiedenen Winklen experimentieren.
+
+![Skkkkkrrr](https://github.com/tillcassens/Die-zwei/blob/master/bilder/Kreuz%20screenie.png)
