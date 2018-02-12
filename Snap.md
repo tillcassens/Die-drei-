@@ -13,11 +13,15 @@ Snap!, auch bekannt unter "the beauty and joy of computing", ist eine visuelle P
 
 Nachdem wir uns für die Programmierumgebung Snap! entschieden hatten versuchten wir ersteimal, selbst kleine Sachen zu programmieren. Die ersten Striche und Quadrate entstanden bevor wir uns aufrappelten und der Lernaktivität witmeten.
 
-Es fing alles mit einem einfachen Sprite an. Unsere Aufgabe war es, das Kostüm von diesem zu ändern und bei einem einfachen ´Klick´, sollte es die Richtung ändern, was durch das Hnzufügen eines zweiten, spiegelverkehrten Kostüms möglich wurde. 
+Es fing alles mit einem einfachen Sprite an. Unsere Aufgabe war es, das Kostüm von diesem zu ändern und bei einem einfachen `Klick`, sollte es die Richtung ändern, was durch das Hnzufügen eines zweiten, spiegelverkehrten Kostüms möglich wurde. 
 
 ![Challo](https://github.com/tillcassens/Die-zwei/blob/master/bilder/lernaktivit%C3%A4t1png.png)
 
-Anschließend sollten wir mit der "Ghost"- Funktion experimentieren, was neben dem Wechsel des Kostüms bei einem `Klick`, auch den Sprite transparenter und somit mehr zum Geist macht.
-Außerdem ließen wir diesen, durch das Klicken der Flagge, etwas sagen und die Position wechseln. 
+Anschließend sollten wir mit der "Ghost"- Funktion experimentieren, was neben dem Wechsel des Kostüms bei einem `Klick`, auch den Sprite transparenter und somit mehr zum "Geist" macht.
+Außerdem ließen wir diesen, durch das Klicken der Flagge, etwas sagen und die Position wechseln. So war es möglich, entweder den Programmierungspartner zu grüßen, oder diesem wüste Beleidigungen an den Kopf zu werfen.
 
 ![Moin](https://github.com/tillcassens/Die-zwei/blob/master/bilder/lernaktivität1.3.png)
+ 
+Nachdem wir uns mit den ersten Schritten befasst hatten, sollten wir nun zwei Sprites mit einander Tratschen lassen. Klingt komisch? Ist es auch! Hierzu mussten wir wieder zuerst die Kostüme der beiden Tratschtanten ändern. Dazu gab es vorgefertigte, aus Bildern ausgeschnittene, oder mit dem Computer programmierte Personen als Kostüme. Nun mussten lediglich, wiederum vorgefertigte, `report blocks` eingesetzt werden, sodass die Personen, in diesem Fall durch den "gossip" Block anfangen zu tratschen.
+
+![Was geht´n](https://github.com/tillcassens/Die-zwei/blob/master/bilder/nicer-talk-screenie.png)
