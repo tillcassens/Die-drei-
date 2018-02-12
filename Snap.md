@@ -12,4 +12,12 @@ Snap!, auch bekannt unter "the beauty and joy of computing", ist eine visuelle P
 ### 4. Stunde nach dem Rückschlag
 
 Nachdem wir uns für die Programmierumgebung Snap! entschieden hatten versuchten wir ersteimal, selbst kleine Sachen zu programmieren. Die ersten Striche und Quadrate entstanden bevor wir uns aufrappelten und der Lernaktivität witmeten.
+
+Es fing alles mit einem einfachen Sprite an. Unsere Aufgabe war es, das Kostüm von diesem zu ändern und bei einem einfachen ´Klick´, sollte es die Richtung ändern, was durch das Hnzufügen eines zweiten, spiegelverkehrten Kostüms möglich wurde. 
+
 ![Challo](https://github.com/tillcassens/Die-zwei/blob/master/bilder/lernaktivit%C3%A4t1png.png)
+
+Anschließend sollten wir mit der "Ghost"- Funktion experimentieren, was neben dem Wechsel des Kostüms bei einem `Klick`, auch den Sprite transparenter und somit mehr zum Geist macht.
+Außerdem ließen wir diesen, durch das Klicken der Flagge, etwas sagen und die Position wechseln. 
+
+![Moin](https://github.com/tillcassens/Die-zwei/blob/master/bilder/lernaktivität1.3.png)
