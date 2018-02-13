@@ -43,3 +43,7 @@ Im weiteren Verlauf der Lernaktivität sollte man dann mit allen möglichen Vari
 
 ### 8. Stunde nach dem Rückschlag und Heimarbeit
 
+Nun war es an der Zeit unsere Idee in die Tat umzusetzten. Zuerst programmierten wir den Ball für das Spiel und danach die beiden Panels. Beim Ball hatten wir am Anfang Schwierigkeiten mit dem Auf- und Abrallwinkel, die lösten wir aber dadurch das wir 45 Grad als Standardwinkel festlegten. 
+
+![schmapöbel](https://github.com/tillcassens/Die-zwei/blob/master/bilder/Bildschirmfoto%202018-02-13%20um%2019.41.31.png)
+
