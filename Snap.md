@@ -47,3 +47,4 @@ Nun war es an der Zeit unsere Idee in die Tat umzusetzten. Zuerst programmierten
 
 ![schmapöbel](https://github.com/tillcassens/Die-zwei/blob/master/bilder/Bildschirmfoto%202018-02-13%20um%2019.41.31.png)
 
+Zuhause haben wir dann noch das Spiel beendet, leider konnten wir ohne Hilfe nicht alle Bugs ausmerzen. Durch die doch sehr kurze Zeit und den wechsel des Programms, konnten wir leider kein größeres Projekt abgeben. Wir hoffen aber, da wir jetzt mit Snap! umgehen können, dass wir als nächstes eine umfangreichere Arbeit abgeben werden.
